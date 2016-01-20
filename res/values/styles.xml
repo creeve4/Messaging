@@ -271,8 +271,12 @@
     </style>
 
     <style name="ConversationListItemViewConversationNameStyle" parent="ConversationListItemViewTextStyle">
-        <item name="android:textSize">16sp</item>
+        <item name="android:textSize">18sp</item>
         <item name="android:textColor">@color/conversation_list_name</item>
+    </style>
+
+    <style name="ConversationListItemViewTimeTextStyle" parent="ConversationListItemViewTextStyle">
+        <item name="android:textSize">10sp</item>
     </style>
 
     <style name="ConversationListNotificationBellPaddingStyle">
