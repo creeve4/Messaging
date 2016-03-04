@@ -77,7 +77,7 @@ endif
 
 LOCAL_JACK_ENABLED := disabled
 
-LOCAL_PACKAGE_NAME := messaging
+LOCAL_PACKAGE_NAME := Messaging
 
 LOCAL_CERTIFICATE := platform
 
