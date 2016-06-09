@@ -124,8 +124,8 @@
     <color name="people_and_options_header_text">#6d6d6d</color>
     <color name="people_and_options_list_divider">#cccccc</color>
 
-    <color name="fab_color">@color/primary_color</color>
-    <color name="fab_pressed_color">#3ea4dc</color>
+    <color name="fab_color">#FF3D00</color>
+    <color name="fab_pressed_color">#FF6E40</color>
     <color name="fab_ripple">#40ffffff</color>
 
     <color name="message_text_counter_color">#555555</color>
